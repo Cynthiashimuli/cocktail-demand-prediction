@@ -1,0 +1,547 @@
+date,drink_name,unit_price,units_sold
+2026-08-01,Mojito,12.0,31.0
+2026-08-01,Espresso Martini,15.0,37.0
+2026-08-01,Margarita,13.0,35.0
+2026-08-01,Old Fashioned,14.0,30.0
+2026-08-01,Negroni,14.0,
+2026-08-01,Aperol Spritz,11.0,26.0
+2026-08-02,Mojito,12.0,28.0
+2026-08-02,Espresso Martini,15.0,30.0
+2026-08-02,Margarita,13.0,33.0
+2026-08-02,Old Fashioned,14.0,21.0
+2026-08-02,Negroni,14.0,32.0
+2026-08-02,Aperol Spritz,11.0,23.0
+2026-08-03,Mojito,12.0,22.0
+2026-08-03,Espresso Martini,15.0,20.0
+2026-08-03,Margarita,13.0,24.0
+2026-08-03,Old Fashioned,14.0,14.0
+2026-08-03,Negroni,14.0,9.0
+2026-08-03,Aperol Spritz,11.0,19.0
+2026-08-04,Mojito,12.0,17.0
+2026-08-04,Espresso Martini,15.0,24.0
+2026-08-04,Margarita,13.0,23.0
+2026-08-04,Old Fashioned,14.0,11.0
+2026-08-04,Negroni,14.0,15.0
+2026-08-04,Aperol Spritz,11.0,15.0
+2026-08-05,Mojito,12.0,17.0
+2026-08-05,Espresso Martini,15.0,19.0
+2026-08-05,Margarita,13.0,17.0
+2026-08-05,Old Fashioned,14.0,14.0
+2026-08-05,Negroni,14.0,15.0
+2026-08-05,Aperol Spritz,11.0,18.0
+2026-08-06,Mojito,12.0,18.0
+2026-08-06,Espresso Martini,15.0,19.0
+2026-08-06,Margarita,13.0,23.0
+2026-08-06,Old Fashioned,14.0,19.0
+2026-08-06,Negroni,14.0,
+2026-08-06,Aperol Spritz,11.0,18.0
+2026-08-07,Mojito,12.0,
+2026-08-07,Espresso Martini,15.0,28.0
+2026-08-07,Margarita,13.0,26.0
+2026-08-07,Old Fashioned,14.0,34.0
+2026-08-07,Negroni,14.0,22.0
+2026-08-07,Aperol Spritz,11.0,19.0
+2026-08-08,Mojito,12.0,33.0
+2026-08-08,Espresso Martini,15.0,31.0
+2026-08-08,Margarita,13.0,26.0
+2026-08-08,Old Fashioned,14.0,21.0
+2026-08-08,Negroni,14.0,28.0
+2026-08-08,Aperol Spritz,11.0,32.0
+2026-08-09,Mojito,12.0,34.0
+2026-08-09,Espresso Martini,15.0,32.0
+2026-08-09,Margarita,13.0,32.0
+2026-08-09,Old Fashioned,14.0,29.0
+2026-08-09,Negroni,14.0,23.0
+2026-08-09,Aperol Spritz,11.0,25.0
+2026-08-10,Mojito,12.0,23.0
+2026-08-10,Espresso Martini,15.0,26.0
+2026-08-10,Margarita,13.0,19.0
+2026-08-10,Old Fashioned,14.0,20.0
+2026-08-10,Negroni,14.0,16.0
+2026-08-10,Aperol Spritz,11.0,10.0
+2026-08-11,Mojito,12.0,22.0
+2026-08-11,Espresso Martini,15.0,26.0
+2026-08-11,Margarita,13.0,21.0
+2026-08-11,Old Fashioned,14.0,19.0
+2026-08-11,Negroni,14.0,8.0
+2026-08-11,Aperol Spritz,11.0,17.0
+2026-08-12,Mojito,12.0,19.0
+2026-08-12,Espresso Martini,15.0,25.0
+2026-08-12,Margarita,13.0,16.0
+2026-08-12,Old Fashioned,14.0,20.0
+2026-08-12,Negroni,14.0,14.0
+2026-08-12,Aperol Spritz,11.0,10.0
+2026-08-13,Mojito,12.0,21.0
+2026-08-13,Espresso Martini,15.0,18.0
+2026-08-13,Margarita,13.0,21.0
+2026-08-13,Old Fashioned,14.0,11.0
+2026-08-13,Negroni,14.0,9.0
+2026-08-13,Aperol Spritz,11.0,19.0
+2026-08-14,Mojito,12.0,31.0
+2026-08-14,Espresso Martini,15.0,35.0
+2026-08-14,Margarita,13.0,36.0
+2026-08-14,Old Fashioned,14.0,25.0
+2026-08-14,Negroni,14.0,16.0
+2026-08-14,Aperol Spritz,11.0,30.0
+2026-08-15,Mojito,12.0,28.0
+2026-08-15,Espresso Martini,15.0,29.0
+2026-08-15,Margarita,13.0,29.0
+2026-08-15,Old Fashioned,14.0,22.0
+2026-08-15,Negroni,14.0,23.0
+2026-08-15,Aperol Spritz,11.0,26.0
+2026-08-16,Mojito,12.0,33.0
+2026-08-16,Espresso Martini,15.0,42.0
+2026-08-16,Margarita,13.0,25.0
+2026-08-16,Old Fashioned,14.0,27.0
+2026-08-16,Negroni,14.0,22.0
+2026-08-16,Aperol Spritz,11.0,27.0
+2026-08-17,Mojito,12.0,17.0
+2026-08-17,Espresso Martini,15.0,25.0
+2026-08-17,Margarita,13.0,19.0
+2026-08-17,Old Fashioned,14.0,18.0
+2026-08-17,Negroni,14.0,15.0
+2026-08-17,Aperol Spritz,11.0,12.0
+2026-08-18,Mojito,12.0,22.0
+2026-08-18,Espresso Martini,15.0,19.0
+2026-08-18,Margarita,13.0,17.0
+2026-08-18,Old Fashioned,14.0,13.0
+2026-08-18,Negroni,14.0,16.0
+2026-08-18,Aperol Spritz,11.0,13.0
+2026-08-19,Mojito,12.0,18.0
+2026-08-19,Espresso Martini,15.0,25.0
+2026-08-19,Margarita,13.0,22.0
+2026-08-19,Old Fashioned,14.0,11.0
+2026-08-19,Negroni,14.0,10.0
+2026-08-19,Aperol Spritz,11.0,15.0
+2026-08-20,Mojito,12.0,19.0
+2026-08-20,Espresso Martini,15.0,20.0
+2026-08-20,Margarita,13.0,17.0
+2026-08-20,Old Fashioned,14.0,11.0
+2026-08-20,Negroni,14.0,8.0
+2026-08-20,Aperol Spritz,11.0,12.0
+2026-08-21,Mojito,12.0,29.0
+2026-08-21,Espresso Martini,15.0,35.0
+2026-08-21,Margarita,13.0,36.0
+2026-08-21,Old Fashioned,14.0,24.0
+2026-08-21,Negroni,14.0,21.0
+2026-08-21,Aperol Spritz,11.0,29.0
+2026-08-22,Mojito,12.0,31.0
+2026-08-22,Espresso Martini,15.0,41.0
+2026-08-22,Margarita,13.0,33.0
+2026-08-22,Old Fashioned,14.0,27.0
+2026-08-22,Negroni,14.0,23.0
+2026-08-22,Aperol Spritz,11.0,28.0
+2026-08-23,Mojito,12.0,29.0
+2026-08-23,Espresso Martini,15.0,38.0
+2026-08-23,Margarita,13.0,39.0
+2026-08-23,Old Fashioned,14.0,20.0
+2026-08-23,Negroni,14.0,31.0
+2026-08-23,Aperol Spritz,11.0,21.0
+2026-08-24,Mojito,12.0,16.0
+2026-08-24,Espresso Martini,15.0,19.0
+2026-08-24,Margarita,13.0,22.0
+2026-08-24,Old Fashioned,14.0,13.0
+2026-08-24,Negroni,14.0,13.0
+2026-08-24,Aperol Spritz,11.0,15.0
+2026-08-25,Mojito,12.0,23.0
+2026-08-25,Espresso Martini,15.0,23.0
+2026-08-25,Margarita,13.0,20.0
+2026-08-25,Old Fashioned,14.0,15.0
+2026-08-25,Negroni,14.0,12.0
+2026-08-25,Aperol Spritz,11.0,15.0
+2026-08-26,Mojito,12.0,17.0
+2026-08-26,Espresso Martini,15.0,20.0
+2026-08-26,Margarita,13.0,19.0
+2026-08-26,Old Fashioned,14.0,12.0
+2026-08-26,Negroni,14.0,10.0
+2026-08-26,Aperol Spritz,11.0,12.0
+2026-08-27,Mojito,12.0,20.0
+2026-08-27,Espresso Martini,15.0,27.0
+2026-08-27,Margarita,13.0,22.0
+2026-08-27,Old Fashioned,14.0,15.0
+2026-08-27,Negroni,14.0,17.0
+2026-08-27,Aperol Spritz,11.0,11.0
+2026-08-28,Mojito,12.0,34.0
+2026-08-28,Espresso Martini,15.0,30.0
+2026-08-28,Margarita,13.0,37.0
+2026-08-28,Old Fashioned,14.0,28.0
+2026-08-28,Negroni,14.0,32.0
+2026-08-28,Aperol Spritz,11.0,23.0
+2026-08-29,Mojito,12.0,32.0
+2026-08-29,Espresso Martini,15.0,33.0
+2026-08-29,Margarita,13.0,34.0
+2026-08-29,Old Fashioned,14.0,28.0
+2026-08-29,Negroni,14.0,26.0
+2026-08-29,Aperol Spritz,11.0,27.0
+2026-08-30,Mojito,12.0,
+2026-08-30,Espresso Martini,15.0,29.0
+2026-08-30,Margarita,13.0,35.0
+2026-08-30,Old Fashioned,14.0,33.0
+2026-08-30,Negroni,14.0,19.0
+2026-08-30,Aperol Spritz,11.0,28.0
+2026-08-31,Mojito,12.0,16.0
+2026-08-31,Espresso Martini,15.0,18.0
+2026-08-31,Margarita,13.0,20.0
+2026-08-31,Old Fashioned,14.0,11.0
+2026-08-31,Negroni,14.0,17.0
+2026-08-31,Aperol Spritz,11.0,11.0
+2026-09-01,Mojito,12.0,15.0
+2026-09-01,Espresso Martini,15.0,18.0
+2026-09-01,Margarita,13.0,25.0
+2026-09-01,Old Fashioned,14.0,12.0
+2026-09-01,Negroni,14.0,14.0
+2026-09-01,Aperol Spritz,11.0,14.0
+2026-09-02,Mojito,12.0,21.0
+2026-09-02,Espresso Martini,15.0,22.0
+2026-09-02,Margarita,13.0,19.0
+2026-09-02,Old Fashioned,14.0,19.0
+2026-09-02,Negroni,14.0,10.0
+2026-09-02,Aperol Spritz,11.0,13.0
+2026-09-03,Mojito,12.0,20.0
+2026-09-03,Espresso Martini,15.0,24.0
+2026-09-03,Margarita,13.0,20.0
+2026-09-03,Old Fashioned,14.0,17.0
+2026-09-03,Negroni,14.0,16.0
+2026-09-03,Aperol Spritz,11.0,10.0
+2026-09-04,Mojito,12.0,32.0
+2026-09-04,Espresso Martini,15.0,28.0
+2026-09-04,Margarita,13.0,34.0
+2026-09-04,Old Fashioned,14.0,28.0
+2026-09-04,Negroni,14.0,21.0
+2026-09-04,Aperol Spritz,11.0,26.0
+2026-09-05,Mojito,12.0,33.0
+2026-09-05,Espresso Martini,15.0,33.0
+2026-09-05,Margarita,13.0,38.0
+2026-09-05,Old Fashioned,14.0,29.0
+2026-09-05,Negroni,14.0,29.0
+2026-09-05,Aperol Spritz,11.0,25.0
+2026-09-06,Mojito,12.0,32.0
+2026-09-06,Espresso Martini,15.0,37.0
+2026-09-06,Margarita,13.0,32.0
+2026-09-06,Old Fashioned,14.0,29.0
+2026-09-06,Negroni,14.0,25.0
+2026-09-06,Aperol Spritz,11.0,23.0
+2026-09-07,Mojito,12.0,20.0
+2026-09-07,Espresso Martini,15.0,21.0
+2026-09-07,Margarita,13.0,18.0
+2026-09-07,Old Fashioned,14.0,16.0
+2026-09-07,Negroni,14.0,17.0
+2026-09-07,Aperol Spritz,11.0,16.0
+2026-09-08,Mojito,12.0,15.0
+2026-09-08,Espresso Martini,15.0,27.0
+2026-09-08,Margarita,13.0,23.0
+2026-09-08,Old Fashioned,14.0,19.0
+2026-09-08,Negroni,14.0,10.0
+2026-09-08,Aperol Spritz,11.0,18.0
+2026-09-09,Mojito,12.0,14.0
+2026-09-09,Espresso Martini,15.0,18.0
+2026-09-09,Margarita,13.0,21.0
+2026-09-09,Old Fashioned,14.0,15.0
+2026-09-09,Negroni,14.0,12.0
+2026-09-09,Aperol Spritz,11.0,14.0
+2026-09-10,Mojito,12.0,16.0
+2026-09-10,Espresso Martini,15.0,19.0
+2026-09-10,Margarita,13.0,16.0
+2026-09-10,Old Fashioned,14.0,11.0
+2026-09-10,Negroni,14.0,13.0
+2026-09-10,Aperol Spritz,11.0,16.0
+2026-09-11,Mojito,12.0,38.0
+2026-09-11,Espresso Martini,15.0,34.0
+2026-09-11,Margarita,13.0,35.0
+2026-09-11,Old Fashioned,14.0,23.0
+2026-09-11,Negroni,14.0,20.0
+2026-09-11,Aperol Spritz,11.0,29.0
+2026-09-12,Mojito,12.0,33.0
+2026-09-12,Espresso Martini,15.0,30.0
+2026-09-12,Margarita,13.0,30.0
+2026-09-12,Old Fashioned,14.0,28.0
+2026-09-12,Negroni,14.0,25.0
+2026-09-12,Aperol Spritz,11.0,21.0
+2026-09-13,Mojito,12.0,35.0
+2026-09-13,Espresso Martini,15.0,27.0
+2026-09-13,Margarita,13.0,26.0
+2026-09-13,Old Fashioned,14.0,32.0
+2026-09-13,Negroni,14.0,20.0
+2026-09-13,Aperol Spritz,11.0,28.0
+2026-09-14,Mojito,12.0,18.0
+2026-09-14,Espresso Martini,15.0,23.0
+2026-09-14,Margarita,13.0,20.0
+2026-09-14,Old Fashioned,14.0,16.0
+2026-09-14,Negroni,14.0,14.0
+2026-09-14,Aperol Spritz,11.0,14.0
+2026-09-15,Mojito,12.0,16.0
+2026-09-15,Espresso Martini,15.0,26.0
+2026-09-15,Margarita,13.0,18.0
+2026-09-15,Old Fashioned,14.0,14.0
+2026-09-15,Negroni,14.0,8.0
+2026-09-15,Aperol Spritz,11.0,11.0
+2026-09-16,Mojito,12.0,
+2026-09-16,Espresso Martini,15.0,27.0
+2026-09-16,Margarita,13.0,21.0
+2026-09-16,Old Fashioned,14.0,12.0
+2026-09-16,Negroni,14.0,13.0
+2026-09-16,Aperol Spritz,11.0,18.0
+2026-09-17,Mojito,12.0,20.0
+2026-09-17,Espresso Martini,15.0,22.0
+2026-09-17,Margarita,13.0,18.0
+2026-09-17,Old Fashioned,14.0,12.0
+2026-09-17,Negroni,14.0,9.0
+2026-09-17,Aperol Spritz,11.0,12.0
+2026-09-18,Mojito,12.0,25.0
+2026-09-18,Espresso Martini,15.0,39.0
+2026-09-18,Margarita,13.0,31.0
+2026-09-18,Old Fashioned,14.0,27.0
+2026-09-18,Negroni,14.0,23.0
+2026-09-18,Aperol Spritz,11.0,28.0
+2026-09-19,Mojito,12.0,31.0
+2026-09-19,Espresso Martini,15.0,34.0
+2026-09-19,Margarita,13.0,37.0
+2026-09-19,Old Fashioned,14.0,31.0
+2026-09-19,Negroni,14.0,26.0
+2026-09-19,Aperol Spritz,11.0,27.0
+2026-09-20,Mojito,12.0,27.0
+2026-09-20,Espresso Martini,15.0,32.0
+2026-09-20,Margarita,13.0,37.0
+2026-09-20,Old Fashioned,14.0,24.0
+2026-09-20,Negroni,14.0,30.0
+2026-09-20,Aperol Spritz,11.0,31.0
+2026-09-21,Mojito,12.0,23.0
+2026-09-21,Espresso Martini,15.0,26.0
+2026-09-21,Margarita,13.0,23.0
+2026-09-21,Old Fashioned,14.0,11.0
+2026-09-21,Negroni,14.0,8.0
+2026-09-21,Aperol Spritz,11.0,12.0
+2026-09-22,Mojito,12.0,21.0
+2026-09-22,Espresso Martini,15.0,27.0
+2026-09-22,Margarita,13.0,23.0
+2026-09-22,Old Fashioned,14.0,20.0
+2026-09-22,Negroni,14.0,15.0
+2026-09-22,Aperol Spritz,11.0,12.0
+2026-09-23,Mojito,12.0,15.0
+2026-09-23,Espresso Martini,15.0,20.0
+2026-09-23,Margarita,13.0,24.0
+2026-09-23,Old Fashioned,14.0,20.0
+2026-09-23,Negroni,14.0,8.0
+2026-09-23,Aperol Spritz,11.0,19.0
+2026-09-24,Mojito,12.0,22.0
+2026-09-24,Espresso Martini,15.0,21.0
+2026-09-24,Margarita,13.0,25.0
+2026-09-24,Old Fashioned,14.0,12.0
+2026-09-24,Negroni,14.0,13.0
+2026-09-24,Aperol Spritz,11.0,17.0
+2026-09-25,Mojito,12.0,25.0
+2026-09-25,Espresso Martini,15.0,34.0
+2026-09-25,Margarita,13.0,27.0
+2026-09-25,Old Fashioned,14.0,28.0
+2026-09-25,Negroni,14.0,25.0
+2026-09-25,Aperol Spritz,11.0,29.0
+2026-09-26,Mojito,12.0,35.0
+2026-09-26,Espresso Martini,15.0,
+2026-09-26,Margarita,13.0,31.0
+2026-09-26,Old Fashioned,14.0,25.0
+2026-09-26,Negroni,14.0,25.0
+2026-09-26,Aperol Spritz,11.0,23.0
+2026-09-27,Mojito,12.0,29.0
+2026-09-27,Espresso Martini,15.0,34.0
+2026-09-27,Margarita,13.0,33.0
+2026-09-27,Old Fashioned,14.0,24.0
+2026-09-27,Negroni,14.0,19.0
+2026-09-27,Aperol Spritz,11.0,19.0
+2026-09-28,Mojito,12.0,19.0
+2026-09-28,Espresso Martini,15.0,21.0
+2026-09-28,Margarita,13.0,18.0
+2026-09-28,Old Fashioned,14.0,12.0
+2026-09-28,Negroni,14.0,12.0
+2026-09-28,Aperol Spritz,11.0,11.0
+2026-09-29,Mojito,12.0,15.0
+2026-09-29,Espresso Martini,15.0,
+2026-09-29,Margarita,13.0,24.0
+2026-09-29,Old Fashioned,14.0,18.0
+2026-09-29,Negroni,14.0,10.0
+2026-09-29,Aperol Spritz,11.0,10.0
+2026-09-30,Mojito,12.0,15.0
+2026-09-30,Espresso Martini,15.0,25.0
+2026-09-30,Margarita,13.0,17.0
+2026-09-30,Old Fashioned,14.0,13.0
+2026-09-30,Negroni,14.0,13.0
+2026-09-30,Aperol Spritz,11.0,17.0
+2026-10-01,Mojito,12.0,18.0
+2026-10-01,Espresso Martini,15.0,20.0
+2026-10-01,Margarita,13.0,20.0
+2026-10-01,Old Fashioned,14.0,20.0
+2026-10-01,Negroni,14.0,16.0
+2026-10-01,Aperol Spritz,11.0,18.0
+2026-10-02,Mojito,12.0,35.0
+2026-10-02,Espresso Martini,15.0,32.0
+2026-10-02,Margarita,13.0,36.0
+2026-10-02,Old Fashioned,14.0,27.0
+2026-10-02,Negroni,14.0,23.0
+2026-10-02,Aperol Spritz,11.0,32.0
+2026-10-03,Mojito,12.0,29.0
+2026-10-03,Espresso Martini,15.0,34.0
+2026-10-03,Margarita,13.0,33.0
+2026-10-03,Old Fashioned,14.0,22.0
+2026-10-03,Negroni,14.0,23.0
+2026-10-03,Aperol Spritz,11.0,22.0
+2026-10-04,Mojito,12.0,28.0
+2026-10-04,Espresso Martini,15.0,32.0
+2026-10-04,Margarita,13.0,33.0
+2026-10-04,Old Fashioned,14.0,26.0
+2026-10-04,Negroni,14.0,29.0
+2026-10-04,Aperol Spritz,11.0,26.0
+2026-10-05,Mojito,12.0,
+2026-10-05,Espresso Martini,15.0,20.0
+2026-10-05,Margarita,13.0,19.0
+2026-10-05,Old Fashioned,14.0,15.0
+2026-10-05,Negroni,14.0,17.0
+2026-10-05,Aperol Spritz,11.0,15.0
+2026-10-06,Mojito,12.0,23.0
+2026-10-06,Espresso Martini,15.0,27.0
+2026-10-06,Margarita,13.0,17.0
+2026-10-06,Old Fashioned,14.0,18.0
+2026-10-06,Negroni,14.0,11.0
+2026-10-06,Aperol Spritz,11.0,14.0
+2026-10-07,Mojito,12.0,21.0
+2026-10-07,Espresso Martini,15.0,18.0
+2026-10-07,Margarita,13.0,25.0
+2026-10-07,Old Fashioned,14.0,13.0
+2026-10-07,Negroni,14.0,15.0
+2026-10-07,Aperol Spritz,11.0,16.0
+2026-10-08,Mojito,12.0,18.0
+2026-10-08,Espresso Martini,15.0,21.0
+2026-10-08,Margarita,13.0,24.0
+2026-10-08,Old Fashioned,14.0,16.0
+2026-10-08,Negroni,14.0,15.0
+2026-10-08,Aperol Spritz,11.0,18.0
+2026-10-09,Mojito,12.0,34.0
+2026-10-09,Espresso Martini,15.0,35.0
+2026-10-09,Margarita,13.0,27.0
+2026-10-09,Old Fashioned,14.0,25.0
+2026-10-09,Negroni,14.0,19.0
+2026-10-09,Aperol Spritz,11.0,25.0
+2026-10-10,Mojito,12.0,31.0
+2026-10-10,Espresso Martini,15.0,33.0
+2026-10-10,Margarita,13.0,
+2026-10-10,Old Fashioned,14.0,23.0
+2026-10-10,Negroni,14.0,19.0
+2026-10-10,Aperol Spritz,11.0,28.0
+2026-10-11,Mojito,12.0,29.0
+2026-10-11,Espresso Martini,15.0,34.0
+2026-10-11,Margarita,13.0,31.0
+2026-10-11,Old Fashioned,14.0,23.0
+2026-10-11,Negroni,14.0,25.0
+2026-10-11,Aperol Spritz,11.0,26.0
+2026-10-12,Mojito,12.0,19.0
+2026-10-12,Espresso Martini,15.0,19.0
+2026-10-12,Margarita,13.0,18.0
+2026-10-12,Old Fashioned,14.0,11.0
+2026-10-12,Negroni,14.0,14.0
+2026-10-12,Aperol Spritz,11.0,19.0
+2026-10-13,Mojito,12.0,15.0
+2026-10-13,Espresso Martini,15.0,24.0
+2026-10-13,Margarita,13.0,17.0
+2026-10-13,Old Fashioned,14.0,
+2026-10-13,Negroni,14.0,14.0
+2026-10-13,Aperol Spritz,11.0,16.0
+2026-10-14,Mojito,12.0,21.0
+2026-10-14,Espresso Martini,15.0,22.0
+2026-10-14,Margarita,13.0,16.0
+2026-10-14,Old Fashioned,14.0,18.0
+2026-10-14,Negroni,14.0,15.0
+2026-10-14,Aperol Spritz,11.0,17.0
+2026-10-15,Mojito,12.0,17.0
+2026-10-15,Espresso Martini,15.0,23.0
+2026-10-15,Margarita,13.0,22.0
+2026-10-15,Old Fashioned,14.0,17.0
+2026-10-15,Negroni,14.0,8.0
+2026-10-15,Aperol Spritz,11.0,12.0
+2026-10-16,Mojito,12.0,27.0
+2026-10-16,Espresso Martini,15.0,28.0
+2026-10-16,Margarita,13.0,31.0
+2026-10-16,Old Fashioned,14.0,22.0
+2026-10-16,Negroni,14.0,23.0
+2026-10-16,Aperol Spritz,11.0,27.0
+2026-10-17,Mojito,12.0,27.0
+2026-10-17,Espresso Martini,15.0,33.0
+2026-10-17,Margarita,13.0,33.0
+2026-10-17,Old Fashioned,14.0,
+2026-10-17,Negroni,14.0,31.0
+2026-10-17,Aperol Spritz,11.0,32.0
+2026-10-18,Mojito,12.0,29.0
+2026-10-18,Espresso Martini,15.0,36.0
+2026-10-18,Margarita,13.0,31.0
+2026-10-18,Old Fashioned,14.0,25.0
+2026-10-18,Negroni,14.0,28.0
+2026-10-18,Aperol Spritz,11.0,19.0
+2026-10-19,Mojito,12.0,19.0
+2026-10-19,Espresso Martini,15.0,24.0
+2026-10-19,Margarita,13.0,21.0
+2026-10-19,Old Fashioned,14.0,19.0
+2026-10-19,Negroni,14.0,15.0
+2026-10-19,Aperol Spritz,11.0,18.0
+2026-10-20,Mojito,12.0,23.0
+2026-10-20,Espresso Martini,15.0,27.0
+2026-10-20,Margarita,13.0,25.0
+2026-10-20,Old Fashioned,14.0,12.0
+2026-10-20,Negroni,14.0,8.0
+2026-10-20,Aperol Spritz,11.0,13.0
+2026-10-21,Mojito,12.0,18.0
+2026-10-21,Espresso Martini,15.0,21.0
+2026-10-21,Margarita,13.0,22.0
+2026-10-21,Old Fashioned,14.0,16.0
+2026-10-21,Negroni,14.0,15.0
+2026-10-21,Aperol Spritz,11.0,14.0
+2026-10-22,Mojito,12.0,23.0
+2026-10-22,Espresso Martini,15.0,21.0
+2026-10-22,Margarita,13.0,19.0
+2026-10-22,Old Fashioned,14.0,12.0
+2026-10-22,Negroni,14.0,9.0
+2026-10-22,Aperol Spritz,11.0,18.0
+2026-10-23,Mojito,12.0,22.0
+2026-10-23,Espresso Martini,15.0,34.0
+2026-10-23,Margarita,13.0,28.0
+2026-10-23,Old Fashioned,14.0,
+2026-10-23,Negroni,14.0,22.0
+2026-10-23,Aperol Spritz,11.0,22.0
+2026-10-24,Mojito,12.0,36.0
+2026-10-24,Espresso Martini,15.0,35.0
+2026-10-24,Margarita,13.0,28.0
+2026-10-24,Old Fashioned,14.0,31.0
+2026-10-24,Negroni,14.0,25.0
+2026-10-24,Aperol Spritz,11.0,27.0
+2026-10-25,Mojito,12.0,38.0
+2026-10-25,Espresso Martini,15.0,33.0
+2026-10-25,Margarita,13.0,39.0
+2026-10-25,Old Fashioned,14.0,29.0
+2026-10-25,Negroni,14.0,24.0
+2026-10-25,Aperol Spritz,11.0,25.0
+2026-10-26,Mojito,12.0,20.0
+2026-10-26,Espresso Martini,15.0,27.0
+2026-10-26,Margarita,13.0,23.0
+2026-10-26,Old Fashioned,14.0,12.0
+2026-10-26,Negroni,14.0,15.0
+2026-10-26,Aperol Spritz,11.0,16.0
+2026-10-27,Mojito,12.0,21.0
+2026-10-27,Espresso Martini,15.0,23.0
+2026-10-27,Margarita,13.0,17.0
+2026-10-27,Old Fashioned,14.0,20.0
+2026-10-27,Negroni,14.0,
+2026-10-27,Aperol Spritz,11.0,19.0
+2026-10-28,Mojito,12.0,20.0
+2026-10-28,Espresso Martini,15.0,19.0
+2026-10-28,Margarita,13.0,18.0
+2026-10-28,Old Fashioned,14.0,14.0
+2026-10-28,Negroni,14.0,8.0
+2026-10-28,Aperol Spritz,11.0,14.0
+2026-10-29,Mojito,12.0,21.0
+2026-10-29,Espresso Martini,15.0,26.0
+2026-10-29,Margarita,13.0,24.0
+2026-10-29,Old Fashioned,14.0,14.0
+2026-10-29,Negroni,14.0,8.0
+2026-10-29,Aperol Spritz,11.0,17.0
+2026-10-30,Mojito,12.0,26.0
+2026-10-30,Espresso Martini,15.0,
+2026-10-30,Margarita,13.0,38.0
+2026-10-30,Old Fashioned,14.0,29.0
+2026-10-30,Negroni,14.0,29.0
+2026-10-30,Aperol Spritz,11.0,29.0
